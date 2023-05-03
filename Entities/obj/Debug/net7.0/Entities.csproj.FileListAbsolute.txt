@@ -10,3 +10,6 @@ D:\C#\FinalProject\Entities\obj\Debug\net7.0\Entities.dll
 D:\C#\FinalProject\Entities\obj\Debug\net7.0\refint\Entities.dll
 D:\C#\FinalProject\Entities\obj\Debug\net7.0\Entities.pdb
 D:\C#\FinalProject\Entities\obj\Debug\net7.0\ref\Entities.dll
+D:\C#\FinalProject\Entities\bin\Debug\net7.0\Core.dll
+D:\C#\FinalProject\Entities\bin\Debug\net7.0\Core.pdb
+D:\C#\FinalProject\Entities\obj\Debug\net7.0\Entities.csproj.CopyComplete
