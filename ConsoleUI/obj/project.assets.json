@@ -5958,11 +5958,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "D:\\Projects\\Dotnet\\DotnetBackend\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "D:\\C#\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "D:\\Projects\\Dotnet\\DotnetBackend\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\ekrem\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\FinalProject\\ConsoleUI\\obj\\",
+      "outputPath": "D:\\Projects\\Dotnet\\DotnetBackend\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5983,14 +5983,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\C#\\FinalProject\\Business\\Business.csproj": {
-              "projectPath": "D:\\C#\\FinalProject\\Business\\Business.csproj"
+            "D:\\Projects\\Dotnet\\DotnetBackend\\Business\\Business.csproj": {
+              "projectPath": "D:\\Projects\\Dotnet\\DotnetBackend\\Business\\Business.csproj"
             },
-            "D:\\C#\\FinalProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\C#\\FinalProject\\DataAccess\\DataAccess.csproj"
+            "D:\\Projects\\Dotnet\\DotnetBackend\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\Projects\\Dotnet\\DotnetBackend\\DataAccess\\DataAccess.csproj"
             },
-            "D:\\C#\\FinalProject\\Entities\\Entities.csproj": {
-              "projectPath": "D:\\C#\\FinalProject\\Entities\\Entities.csproj"
+            "D:\\Projects\\Dotnet\\DotnetBackend\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\Projects\\Dotnet\\DotnetBackend\\Entities\\Entities.csproj"
             }
           }
         }

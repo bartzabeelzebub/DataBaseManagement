@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q2D3HWjy7dPs0GU5Fjeg8KUPA2LWnrZ1lpQklAL2o1/1eA7K0C70mWUycYzOSi9Qxe1dww4y5ISGkDU3FQ4Atw==",
+  "dgSpecHash": "c84E4lidgvRJMKM81TwudFv1fgo6w2WCNhTKVy5tJcHo901OJvGCJaqwGdGgAdJMFZ7+t7JUrO/cGF7gQJM3Tg==",
   "success": true,
-  "projectFilePath": "D:\\C#\\FinalProject\\Core\\Core.csproj",
+  "projectFilePath": "D:\\Projects\\Dotnet\\DotnetBackend\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ekrem\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ekrem\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

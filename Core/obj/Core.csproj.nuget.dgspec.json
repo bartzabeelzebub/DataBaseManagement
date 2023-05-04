@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\FinalProject\\Core\\Core.csproj": {}
+    "D:\\Projects\\Dotnet\\DotnetBackend\\Core\\Core.csproj": {}
   },
   "projects": {
-    "D:\\C#\\FinalProject\\Core\\Core.csproj": {
+    "D:\\Projects\\Dotnet\\DotnetBackend\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\FinalProject\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\Projects\\Dotnet\\DotnetBackend\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\C#\\FinalProject\\Core\\Core.csproj",
+        "projectPath": "D:\\Projects\\Dotnet\\DotnetBackend\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\ekrem\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\FinalProject\\Core\\obj\\",
+        "outputPath": "D:\\Projects\\Dotnet\\DotnetBackend\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
