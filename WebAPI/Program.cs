@@ -1,3 +1,7 @@
+using Business.Abstract;
+using Business.Concrete;
+using DataAccess.Abstract;
+using DataAccess.Concrete.EntityFramework;
 
 namespace WebAPI
 {
@@ -14,6 +18,16 @@ namespace WebAPI
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
+            // IOC 
+            /// Product
+            builder.Services.AddSingleton<IProductService, ProductManager>();
+            builder.Services.AddSingleton<IProductDal, EfProductDal>();
+            
+
+
+            // Autofac
+            //builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory());
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -24,7 +38,7 @@ namespace WebAPI
             }
 
             app.UseHttpsRedirection();
-
+            app.UseStaticFiles();
             app.UseAuthorization();
 
 
