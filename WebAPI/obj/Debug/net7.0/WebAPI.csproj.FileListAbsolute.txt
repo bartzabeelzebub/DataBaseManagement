@@ -66,3 +66,8 @@ D:\Projects\Dotnet\DotnetBackend\WebAPI\bin\Debug\net7.0\Business.pdb
 D:\Projects\Dotnet\DotnetBackend\WebAPI\bin\Debug\net7.0\Core.pdb
 D:\Projects\Dotnet\DotnetBackend\WebAPI\bin\Debug\net7.0\DataAccess.pdb
 D:\Projects\Dotnet\DotnetBackend\WebAPI\bin\Debug\net7.0\Entities.pdb
+D:\Projects\Dotnet\DotnetBackend\WebAPI\bin\Debug\net7.0\Autofac.dll
+D:\Projects\Dotnet\DotnetBackend\WebAPI\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
+D:\Projects\Dotnet\DotnetBackend\WebAPI\bin\Debug\net7.0\Autofac.Extras.DynamicProxy.dll
+D:\Projects\Dotnet\DotnetBackend\WebAPI\bin\Debug\net7.0\Castle.Core.dll
+D:\Projects\Dotnet\DotnetBackend\WebAPI\bin\Debug\net7.0\FluentValidation.dll
