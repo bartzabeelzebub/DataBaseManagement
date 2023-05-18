@@ -2553,6 +2553,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "FluentValidation": "9.5.4",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.32"
         },
         "compile": {

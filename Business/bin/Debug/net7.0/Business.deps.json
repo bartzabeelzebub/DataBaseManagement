@@ -1398,6 +1398,7 @@
       },
       "Core/1.0.0": {
         "dependencies": {
+          "FluentValidation": "9.5.4",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.32"
         },
         "runtime": {

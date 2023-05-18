@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "c84E4lidgvRJMKM81TwudFv1fgo6w2WCNhTKVy5tJcHo901OJvGCJaqwGdGgAdJMFZ7+t7JUrO/cGF7gQJM3Tg==",
+  "dgSpecHash": "HdRW2l3abnMy8rPyNFEtfRqzs6JyMex9+KoeTNChl6LtHMFfIFqUS+nIOrR1kVzMlO/Qfo0kE6f4jk1pxSrKEg==",
   "success": true,
   "projectFilePath": "D:\\Projects\\Dotnet\\DotnetBackend\\Core\\Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ekrem\\.nuget\\packages\\fluentvalidation\\9.5.4\\fluentvalidation.9.5.4.nupkg.sha512",
     "C:\\Users\\ekrem\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ekrem\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\ekrem\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

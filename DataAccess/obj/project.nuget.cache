@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fTaz9RG1B3ZEesQP3x2pypmHYzyTlhA7oxyX3ZBkAg5L1Oh7vOikI3EHjjUKubuL5rk4iEGeqcY3QRShEXHiLQ==",
+  "dgSpecHash": "zF+EdVB4rv5saKnk04RZvxSp75Ylljfy5HYFFRD+NkPmSGkCj60UbMpYQSVDe+TKvUwxIDeQ9wwZIfOSBS52Mg==",
   "success": true,
   "projectFilePath": "D:\\Projects\\Dotnet\\DotnetBackend\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ekrem\\.nuget\\packages\\fluentvalidation\\9.5.4\\fluentvalidation.9.5.4.nupkg.sha512",
     "C:\\Users\\ekrem\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ekrem\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\ekrem\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
