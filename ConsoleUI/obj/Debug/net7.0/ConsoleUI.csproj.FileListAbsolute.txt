@@ -122,3 +122,8 @@ D:\Projects\Dotnet\DotnetBackend\ConsoleUI\obj\Debug\net7.0\refint\ConsoleUI.dll
 D:\Projects\Dotnet\DotnetBackend\ConsoleUI\obj\Debug\net7.0\ConsoleUI.pdb
 D:\Projects\Dotnet\DotnetBackend\ConsoleUI\obj\Debug\net7.0\ConsoleUI.genruntimeconfig.cache
 D:\Projects\Dotnet\DotnetBackend\ConsoleUI\obj\Debug\net7.0\ref\ConsoleUI.dll
+D:\Projects\Dotnet\DotnetBackend\ConsoleUI\bin\Debug\net7.0\Autofac.dll
+D:\Projects\Dotnet\DotnetBackend\ConsoleUI\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
+D:\Projects\Dotnet\DotnetBackend\ConsoleUI\bin\Debug\net7.0\Autofac.Extras.DynamicProxy.dll
+D:\Projects\Dotnet\DotnetBackend\ConsoleUI\bin\Debug\net7.0\Castle.Core.dll
+D:\Projects\Dotnet\DotnetBackend\ConsoleUI\bin\Debug\net7.0\FluentValidation.dll
