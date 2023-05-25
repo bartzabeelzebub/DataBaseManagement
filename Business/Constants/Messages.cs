@@ -16,5 +16,8 @@ namespace Business.Constants
         public static string ProductCountOfCategoryError= "a category can contain up to 10 products";
         public static string ProductNameAlreadyExists= "there is already another product with this name";
         public static string CategoryLimitExceded = "no new products are added because the category limit has been exceeded.";
+
+
+        public static string AuthorizationDenied = "Yetkin yok";
     }
 }

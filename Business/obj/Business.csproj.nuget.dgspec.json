@@ -66,6 +66,10 @@
             "FluentValidation": {
               "target": "Package",
               "version": "[9.5.4, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             }
           },
           "imports": [
