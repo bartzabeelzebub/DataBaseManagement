@@ -127,3 +127,5 @@ D:\Projects\Dotnet\DotnetBackend\ConsoleUI\bin\Debug\net7.0\Autofac.Extensions.D
 D:\Projects\Dotnet\DotnetBackend\ConsoleUI\bin\Debug\net7.0\Autofac.Extras.DynamicProxy.dll
 D:\Projects\Dotnet\DotnetBackend\ConsoleUI\bin\Debug\net7.0\Castle.Core.dll
 D:\Projects\Dotnet\DotnetBackend\ConsoleUI\bin\Debug\net7.0\FluentValidation.dll
+D:\Projects\Dotnet\DotnetBackend\ConsoleUI\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Projects\Dotnet\DotnetBackend\ConsoleUI\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Features.dll
