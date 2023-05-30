@@ -10,6 +10,10 @@ using Core.Utilities.Security.JWT;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using Core.Utilities.Security.Encryption;
+using Core.Utilities.IoC;
+using FluentAssertions.Common;
+using Core.Extensions;
+using Core.DependencyResolvers;
 
 namespace WebAPI
 {
@@ -49,6 +53,10 @@ namespace WebAPI
                         IssuerSigningKey = SecurityKeyHelper.CreateSecurityKey(tokenOptions.SecurityKey)
                     };
                 });
+            builder.Services.AddDependencyResolvers(new ICoreModule[]
+            {
+                new CoreModule()
+            });
 
             builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory());
             builder.Host.ConfigureContainer<ContainerBuilder>(builder => builder.RegisterModule(new AutofacBusinessModule()));
